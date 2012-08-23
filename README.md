@@ -1,5 +1,5 @@
-==Primo Back Office Automation Tools
-
+Primo Back Office Automation Tools
+===
 Currently configured as Test::Unit::TestCase.  Should try as rspec for fun.
 
 To run:
